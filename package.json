@@ -12,6 +12,7 @@
     "@types/react": "^16.14.21",
     "@types/react-dom": "^16.9.14",
     "@types/react-redux": "^7.1.22",
+    "immersed-react": "^1.0.0-alpha.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
@@ -38,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Someone told me to check out redux-toolkit. This is a lazily thrown together create-react-app repo for me to familiarize myself with this promising opinionated abstraction layer over what is typically an unreasonable amount of boilerplate.",
+  "main": "index.js",
+  "author": "Robin Miller <rmillerpdx@gmail.com>",
+  "license": "ISC"
 }
